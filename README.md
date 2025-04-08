@@ -7,6 +7,7 @@ Futaba MCPは、ふたば☆ちゃんねると対話するためのModel Context
 - **スレッド一覧**: ふたば掲示板からスレッドのリストを取得し、勢いでソート
 - **スレッド内容**: スレッドの内容(本文、そうだね数)を取得
 
+https://github.com/user-attachments/assets/54de7dfc-d060-4f04-9536-96577aae409a
 
 ## 使用方法
 
